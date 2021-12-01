@@ -27,4 +27,4 @@ _As a Data Scientist you have been provided with access to the Logs where the ac
  # LEVEL 3
   
  ## Exercise 3
-  - Show me your creativity, Surprise me go one step further with the above analysis
+  - Show me your creativity, Surprise me go one step further with the above analysis.
